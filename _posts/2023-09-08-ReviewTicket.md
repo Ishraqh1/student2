@@ -3,7 +3,7 @@ toc: true
 comments: false
 layout: post
 title: Review Ticket
-description: A pretty advanced use of JavaScript building classic snake game using menu controls, key events, snake simulation and timers.
+description: A weekly plan that helps me keep track of everything that I'm running. 
 type: tangibles
 courses: { compsci: {week: 2} }
 ---
