@@ -1,6 +1,6 @@
 ---
 toc: true
-comments: false
+comments: True
 layout: post
 title: Review Ticket
 description: A weekly plan that helps me keep track of everything that I'm running. 
