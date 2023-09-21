@@ -5,7 +5,7 @@ layout: post
 title: Alumni Event
 description: Alumni Event Takeaways and Reflections
 type: tangibles
-courses: { compsci: {week: 3} }
+courses: { compsci: {week: 4} }
 ---
 
 
